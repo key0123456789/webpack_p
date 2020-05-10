@@ -1,4 +1,3 @@
-import my from './my.js';
 import '../stylesheets/main.scss';
 
 import Vue from 'vue';
@@ -10,4 +9,4 @@ new Vue ({
 });
 
 console.log('webpack');
-my();
+
